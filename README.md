@@ -14,13 +14,9 @@ make
 ./executable/filter_vertices <data graph file> <query graph file>
 ```
 
-## Challenge winnners - 2nd place!
-|  | Members | Repository |
-| :---: | :---: | :---: |
-| Gold | 구\*호, 이\*진 | https://github.com/ialy1595/Graph-Pattern-Matching-Challenge |
-| Silver | 설\*환, 김\*형 | https://github.com/JaeHyung-Kim/Graph-Pattern-Matching-Challenge |
-| Bronze | 이\*원, 박\*근 | https://github.com/tonypark7277/Graph-Pattern-Matching-Challenge |
-| Bronze | 박\*현, 이\*훈 | https://github.com/dlwl0088/PMC21 |
+## Achievement - 2nd place!
+
+| Silver | 설\*환, 김\*형 | https://github.com/JinhwanSul/Graph-Pattern-Matching-Challenge |
 
 
 
